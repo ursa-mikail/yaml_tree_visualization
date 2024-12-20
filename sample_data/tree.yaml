@@ -1,0 +1,13 @@
+root:
+  child1:
+    subchild1:
+      leaf1: "value1"
+      leaf2: "value2"
+    subchild2:
+      leaf3: "value3"
+  child2:
+    subchild3:
+      leaf4: "value4"
+      leaf5: "value5"
+    subchild4:
+      leaf6: "value6"
